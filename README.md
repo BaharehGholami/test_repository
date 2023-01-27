@@ -1,11 +1,11 @@
 # This is my first project using git
 
-#git is fun
+git is fun
 
-#add new project 
+add new project 
 
 
-#hello
+hello
 
 
 ##subheader
